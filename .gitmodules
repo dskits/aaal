@@ -1,0 +1,3 @@
+[submodule "STM32L431X_AOC_ESNT"]
+	path = STM32L431X_AOC_ESNT
+	url = https://github.com/Kimyodel/STM32L431X_AOC_ESNT.git
